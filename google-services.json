@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662927423861",
+    "project_id": "buddypay-28",
+    "storage_bucket": "buddypay-28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662927423861:android:4f798dfabc05e23b1d3b3c",
+        "android_client_info": {
+          "package_name": "com.buddypay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662927423861-nr8qmfb26umupvi3lnouhlvk5j5bip9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySmWWQT2eHBshA4j0S3XNPa_6lWE906o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662927423861-nr8qmfb26umupvi3lnouhlvk5j5bip9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
